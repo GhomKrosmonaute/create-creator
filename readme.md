@@ -10,7 +10,7 @@ npm create @ghom/creator <install-path> <git-repository> [package-name]
 
 ## Example
 
-For example, if you want to create a npm creator for the ``user/todo`` boilerplate named ``@user/create-todo``, you can use the following command:
+For example, if you want to create a npm creator for the ``user/todo`` boilerplate named ``create-todo``, you can use the following command:
 
 ```bash
 npm create @ghom/creator ./my-todo user/todo
